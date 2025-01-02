@@ -4,7 +4,7 @@
   "description": "manual setup for react-email templets",
   "main": "index.js",
   "scripts": {
-    "start":"cd ./.react-email/ && npm start",
+    "start":"cd ./.react-email/ && npx next start",
     "dev": "email dev",
     "build": "email build"
   },
